@@ -1,0 +1,35 @@
+
+.menu {
+    width: fit-content;
+    color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
+.square {
+    width: 140px;
+    height: 140px;
+    border: solid rgb(33, 24, 170);
+}
+
+.grid {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 440px;
+    height: 440px;
+}
+
+.mole
+{
+    background-image: url(mole.jpg);
+    background-size: cover;
+}
+
+
+
